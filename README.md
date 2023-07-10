@@ -1,6 +1,6 @@
 # The setup for Node/Express projects with TypeScript and TypeORM/PostgreSQL.
 
-# Basic CRUD implemented for Users and Posts. Basic JWT Authentication and Authorization added.
+ ```Basic CRUD implemented for Users and Posts. Basic JWT Authentication and Authorization added.```
 
 Steps to run this project:
 
