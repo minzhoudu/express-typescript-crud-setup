@@ -10,4 +10,4 @@ Steps to run this project:
 2. Setup database settings inside `data-source.ts` file
 3. Run `npm start` command
 
-```.env only has secret key generated with crypto.randomBytes(32).toString('hex') ```
+```.env file only has secret key generated with crypto.randomBytes(32).toString('hex') ```
